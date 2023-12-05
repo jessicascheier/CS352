@@ -1,0 +1,29 @@
+
+Test Case 1: No Username (POST at the root)
+
+Test Case 2: No Password (POST at the root)
+
+Test Case 3: Username incorrect (POST at the root)
+
+Test Case 4: Password incorrect (POST at the root)
+
+Test Case 5: Username (1st username) correct/password correct (POST at the root) CORRECT
+
+Test Case 6: Username (1st username) correct/password correct (POST at the root) -> Generate a new cookie    CORRECT 
+
+# Test Case 7: Invalid cookie (GET)
+
+ Test Case 8: Username (1st username) (GET filename for user 1) SUCCESSFUL
+The numberless hall dusts father.
+
+# Test Case 9: Username (2nd username) correct/password (POST) SUCCESSFUL
+
+Test Case 10: GET file successful (GET filename for user 2)
+The earthy alpenglow rocks screwdriver.
+
+# Test Case 11: GET file not found (GET FAIL)
+
+Sleeping for 6 seconds...
+
+Test Case 12: Expired cookie with username 2 (GET filename for user 2)
+The earthy alpenglow rocks screwdriver.

@@ -1,0 +1,170 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> POST / HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> password: 3TQI8TB39DFIMI6
+>
+* Empty reply from server
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+* Closing connection 0
+curl: (52) Empty reply from server
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> POST / HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> username: Richard
+>
+* Empty reply from server
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+* Closing connection 0
+curl: (52) Empty reply from server
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> POST / HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> username: Angela
+> password: 3TQI8TB39DFIMI6
+>
+< HTTP/1.1 200 OK
+* no chunk, no close, no size. Assume close to signal end
+<
+{ [13 bytes data]
+100    13    0    13    0     0  33078      0 --:--:-- --:--:-- --:--:-- 13000
+* Closing connection 0
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> POST / HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> username: Richard
+> password: XMLU8ZPD7Z9BMC5
+>
+< HTTP/1.1 200 OK
+* no chunk, no close, no size. Assume close to signal end
+<
+{ [13 bytes data]
+100    13    0    13    0     0  32581      0 --:--:-- --:--:-- --:--:-- 13000
+* Closing connection 0
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> POST / HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> username: Richard
+> password: 3TQI8TB39DFIMI6
+>
+< HTTP/1.1 200 OK
+< Set-Cookie: sessionID=e6f596e3c8405935
+* no chunk, no close, no size. Assume close to signal end
+<
+{ [10 bytes data]
+100    10    0    10    0     0  21367      0 --:--:-- --:--:-- --:--:-- 10000
+* Closing connection 0
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> POST / HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> username: Richard
+> password: 3TQI8TB39DFIMI6
+>
+< HTTP/1.1 200 OK
+< Set-Cookie: sessionID=9816289a95d3c746
+* no chunk, no close, no size. Assume close to signal end
+<
+{ [10 bytes data]
+100    10    0    10    0     0  22026      0 --:--:-- --:--:-- --:--:-- 10000
+* Closing connection 0
+*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> GET /file.txt HTTP/1.0
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> Cookie: sessionID=apple
+>
+* Empty reply from server
+* Closing connection 0
+*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> GET /file.txt HTTP/1.0
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> Cookie: sessionID=9816289a95d3c746
+>
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+<
+* Closing connection 0
+The numberless hall dusts father.  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> POST / HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> username: Angela
+> password: XMLU8ZPD7Z9BMC5
+>
+< HTTP/1.1 200 OK
+< Set-Cookie: sessionID=350135a0b7a6f344
+* no chunk, no close, no size. Assume close to signal end
+<
+{ [10 bytes data]
+100    10    0    10    0     0  15552      0 --:--:-- --:--:-- --:--:-- 10000
+* Closing connection 0
+*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> GET /file.txt HTTP/1.0
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> Cookie: sessionID=350135a0b7a6f344
+>
+* HTTP 1.0, assume close after body
+< HTTP/1.0 200 OK
+<
+* Closing connection 0
+The earthy alpenglow rocks screwdriver.*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> GET /file2.txt HTTP/1.0
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> Cookie: sessionID=350135a0b7a6f344
+>
+* Empty reply from server
+* Closing connection 0
+*   Trying 127.0.0.1:8080...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> GET /file.txt HTTP/1.0
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.88.1
+> Accept: */*
+> Cookie: sessionID=350135a0b7a6f344
+>
+* Empty reply from server
+* Closing connection 0
