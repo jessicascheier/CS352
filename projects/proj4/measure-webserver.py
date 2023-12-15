@@ -1,3 +1,5 @@
+# author: Jessica Scheier
+
 from scapy.all import *
 from scapy.layers.http import HTTP, HTTPRequest, HTTPResponse
 from scapy.layers.inet import TCP, IP
